@@ -11,7 +11,7 @@
 
 # https://beautifuljekyll.com/getstarted/#method-1-github-repository-with-remote_theme
 # remote_theme: daattali/beautiful-jekyll@6.0.1
-remote_theme: reenignearcher/beautiful-jekyll@339b3ec7abb6e8b01915592f1982560b8622e86b
+remote_theme: reenignearcher/beautiful-jekyll@6ad15854a09890dd599404960af8b1dc51a40333
 
 # Name of website
 title: My website
